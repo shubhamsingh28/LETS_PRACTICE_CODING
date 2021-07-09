@@ -26,7 +26,7 @@ Output: 1
 
 Approch :
 
-In this question we are need to find the largest increeasing subsequesnce.
+In this question we are need to find the largest increasing subsequesnce.
 
 So in this approch We will maintain a dp array which will have how many elements before this element will contribute to
 make this a largest subsequence.
